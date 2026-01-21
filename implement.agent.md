@@ -1,5 +1,5 @@
 ---
-name: 2. Implement
+name: Implement
 description: Execute a preexisting development plan from ./plans/ directory
 argument-hint: Reference a plan file, e.g., #file:plans/1-refactor-xyz.md
 handoffs:

@@ -1,5 +1,5 @@
 ---
-name: 3. Verify
+name: Verify
 description: Verify implementation against development plan, identify discrepancies and gaps
 argument-hint: Reference a plan file, e.g., #file:plans/1-refactor-xyz.md
 tools:

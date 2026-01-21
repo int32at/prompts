@@ -1,5 +1,5 @@
 ---
-name: 1. Deep Planner
+name: Deep Planner
 description: Advanced multi-step implementation planner with codebase specialization
 argument-hint: Describe the goal, feature, or refactoring task
 tools:
